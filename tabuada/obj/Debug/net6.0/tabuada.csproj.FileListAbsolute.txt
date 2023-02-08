@@ -1,0 +1,15 @@
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 01\M1S01\tabuada\bin\Debug\net6.0\tabuada.exe
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 01\M1S01\tabuada\bin\Debug\net6.0\tabuada.deps.json
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 01\M1S01\tabuada\bin\Debug\net6.0\tabuada.runtimeconfig.json
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 01\M1S01\tabuada\bin\Debug\net6.0\tabuada.dll
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 01\M1S01\tabuada\bin\Debug\net6.0\tabuada.pdb
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 01\M1S01\tabuada\obj\Debug\net6.0\tabuada.csproj.AssemblyReference.cache
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 01\M1S01\tabuada\obj\Debug\net6.0\tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 01\M1S01\tabuada\obj\Debug\net6.0\tabuada.AssemblyInfoInputs.cache
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 01\M1S01\tabuada\obj\Debug\net6.0\tabuada.AssemblyInfo.cs
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 01\M1S01\tabuada\obj\Debug\net6.0\tabuada.csproj.CoreCompileInputs.cache
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 01\M1S01\tabuada\obj\Debug\net6.0\tabuada.dll
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 01\M1S01\tabuada\obj\Debug\net6.0\refint\tabuada.dll
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 01\M1S01\tabuada\obj\Debug\net6.0\tabuada.pdb
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 01\M1S01\tabuada\obj\Debug\net6.0\tabuada.genruntimeconfig.cache
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 01\M1S01\tabuada\obj\Debug\net6.0\ref\tabuada.dll

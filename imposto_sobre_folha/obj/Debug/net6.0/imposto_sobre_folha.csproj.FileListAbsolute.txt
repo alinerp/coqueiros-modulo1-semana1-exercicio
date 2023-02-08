@@ -1,0 +1,15 @@
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 01\M1S01\imposto_sobre_folha\bin\Debug\net6.0\imposto_sobre_folha.exe
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 01\M1S01\imposto_sobre_folha\bin\Debug\net6.0\imposto_sobre_folha.deps.json
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 01\M1S01\imposto_sobre_folha\bin\Debug\net6.0\imposto_sobre_folha.runtimeconfig.json
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 01\M1S01\imposto_sobre_folha\bin\Debug\net6.0\imposto_sobre_folha.dll
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 01\M1S01\imposto_sobre_folha\bin\Debug\net6.0\imposto_sobre_folha.pdb
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 01\M1S01\imposto_sobre_folha\obj\Debug\net6.0\imposto_sobre_folha.csproj.AssemblyReference.cache
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 01\M1S01\imposto_sobre_folha\obj\Debug\net6.0\imposto_sobre_folha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 01\M1S01\imposto_sobre_folha\obj\Debug\net6.0\imposto_sobre_folha.AssemblyInfoInputs.cache
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 01\M1S01\imposto_sobre_folha\obj\Debug\net6.0\imposto_sobre_folha.AssemblyInfo.cs
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 01\M1S01\imposto_sobre_folha\obj\Debug\net6.0\imposto_sobre_folha.csproj.CoreCompileInputs.cache
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 01\M1S01\imposto_sobre_folha\obj\Debug\net6.0\imposto_sobre_folha.dll
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 01\M1S01\imposto_sobre_folha\obj\Debug\net6.0\refint\imposto_sobre_folha.dll
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 01\M1S01\imposto_sobre_folha\obj\Debug\net6.0\imposto_sobre_folha.pdb
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 01\M1S01\imposto_sobre_folha\obj\Debug\net6.0\imposto_sobre_folha.genruntimeconfig.cache
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 01\M1S01\imposto_sobre_folha\obj\Debug\net6.0\ref\imposto_sobre_folha.dll

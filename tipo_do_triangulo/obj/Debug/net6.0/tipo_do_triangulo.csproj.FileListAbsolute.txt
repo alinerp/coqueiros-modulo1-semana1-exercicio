@@ -1,0 +1,15 @@
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 01\M1S01\tipo_do_triangulo\bin\Debug\net6.0\tipo_do_triangulo.exe
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 01\M1S01\tipo_do_triangulo\bin\Debug\net6.0\tipo_do_triangulo.deps.json
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 01\M1S01\tipo_do_triangulo\bin\Debug\net6.0\tipo_do_triangulo.runtimeconfig.json
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 01\M1S01\tipo_do_triangulo\bin\Debug\net6.0\tipo_do_triangulo.dll
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 01\M1S01\tipo_do_triangulo\bin\Debug\net6.0\tipo_do_triangulo.pdb
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 01\M1S01\tipo_do_triangulo\obj\Debug\net6.0\tipo_do_triangulo.csproj.AssemblyReference.cache
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 01\M1S01\tipo_do_triangulo\obj\Debug\net6.0\tipo_do_triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 01\M1S01\tipo_do_triangulo\obj\Debug\net6.0\tipo_do_triangulo.AssemblyInfoInputs.cache
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 01\M1S01\tipo_do_triangulo\obj\Debug\net6.0\tipo_do_triangulo.AssemblyInfo.cs
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 01\M1S01\tipo_do_triangulo\obj\Debug\net6.0\tipo_do_triangulo.csproj.CoreCompileInputs.cache
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 01\M1S01\tipo_do_triangulo\obj\Debug\net6.0\tipo_do_triangulo.dll
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 01\M1S01\tipo_do_triangulo\obj\Debug\net6.0\refint\tipo_do_triangulo.dll
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 01\M1S01\tipo_do_triangulo\obj\Debug\net6.0\tipo_do_triangulo.pdb
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 01\M1S01\tipo_do_triangulo\obj\Debug\net6.0\tipo_do_triangulo.genruntimeconfig.cache
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 01\M1S01\tipo_do_triangulo\obj\Debug\net6.0\ref\tipo_do_triangulo.dll
