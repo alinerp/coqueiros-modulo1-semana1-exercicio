@@ -30,11 +30,10 @@ int lado3 = int.Parse(Console.ReadLine());
 
 if(lado1 == lado2 && lado2 == lado3 && lado3 == lado1) {
     System.Console.WriteLine("Seu triângulo é: Equilátero");
-} else if(lado1 == lado2 || lado2 == lado3 || lado3 == lado1) {
+} else if(lado1 == lado2 && lado2 == lado3 && lado3 == lado1) {
     System.Console.WriteLine("Seu triâgulo é: Isósceles");
 } else if(lado1 != lado2 && lado2 != lado3 && lado3 != lado1){
     System.Console.WriteLine("Seu triângulo é: Escaleno");
 } else {
-    System.Console.WriteLine("Ops! As medidas que você informou não formam um triângulo.");
-}
-
+    Console.WriteLine("Ops! As medidas que você passou não formam um triângulo. Tente novamente.");
+};
