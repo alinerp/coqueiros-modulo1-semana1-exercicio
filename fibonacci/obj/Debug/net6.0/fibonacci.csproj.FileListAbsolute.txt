@@ -1,0 +1,15 @@
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 01\M1S01\fibonacci\bin\Debug\net6.0\fibonacci.exe
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 01\M1S01\fibonacci\bin\Debug\net6.0\fibonacci.deps.json
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 01\M1S01\fibonacci\bin\Debug\net6.0\fibonacci.runtimeconfig.json
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 01\M1S01\fibonacci\bin\Debug\net6.0\fibonacci.dll
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 01\M1S01\fibonacci\bin\Debug\net6.0\fibonacci.pdb
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 01\M1S01\fibonacci\obj\Debug\net6.0\fibonacci.csproj.AssemblyReference.cache
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 01\M1S01\fibonacci\obj\Debug\net6.0\fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 01\M1S01\fibonacci\obj\Debug\net6.0\fibonacci.AssemblyInfoInputs.cache
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 01\M1S01\fibonacci\obj\Debug\net6.0\fibonacci.AssemblyInfo.cs
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 01\M1S01\fibonacci\obj\Debug\net6.0\fibonacci.csproj.CoreCompileInputs.cache
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 01\M1S01\fibonacci\obj\Debug\net6.0\fibonacci.dll
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 01\M1S01\fibonacci\obj\Debug\net6.0\refint\fibonacci.dll
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 01\M1S01\fibonacci\obj\Debug\net6.0\fibonacci.pdb
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 01\M1S01\fibonacci\obj\Debug\net6.0\fibonacci.genruntimeconfig.cache
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 01\M1S01\fibonacci\obj\Debug\net6.0\ref\fibonacci.dll
